@@ -1,5 +1,11 @@
-/*Animaciones*/
+/* SVG Loading */
+svg path,
+svg rect{
+  fill: black;
+}
 
+
+/*Animaciones*/
 .animated {
   animation-duration: 0.8s;
   animation-fill-mode: both;
